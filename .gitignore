@@ -1,0 +1,7 @@
+.idea
+*.tmp
+
+#Carpeta temporales
+temporales
+#temporales/**/*.*
+#!temporales/**/*.txt
