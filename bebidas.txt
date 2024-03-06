@@ -1,2 +1,4 @@
 Agua
 Vino
+Cerveza
+CocaCola

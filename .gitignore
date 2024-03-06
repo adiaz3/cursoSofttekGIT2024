@@ -1,6 +1,7 @@
 .idea
 *.tmp
 
+Sesion1
 #Carpeta temporales
 temporales
 #temporales/**/*.*
