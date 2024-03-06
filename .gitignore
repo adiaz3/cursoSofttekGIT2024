@@ -2,6 +2,9 @@
 *.tmp
 
 Sesion1
+Sesion2
+Sesion3
+Sesion4
 #Carpeta temporales
 temporales
 #temporales/**/*.*
