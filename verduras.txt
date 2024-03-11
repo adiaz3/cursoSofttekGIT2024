@@ -1,5 +1,6 @@
 Lechuga
 Puerro
+Tomate
 Cebolla
 Puerro
 Remolacha
