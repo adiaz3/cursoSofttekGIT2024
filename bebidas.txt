@@ -1,8 +1,4 @@
 Agua
 Vino
-<<<<<<< HEAD
 Cerveza
 CocaCola
-=======
-Cerveza
->>>>>>> 9ec5076 (Conflicto resuelto)

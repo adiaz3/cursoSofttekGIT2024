@@ -2,15 +2,6 @@ Lubina
 Pollo
 Cordero
 Ternera
-<<<<<<< HEAD
 Huevos
-<<<<<<< HEAD
 Sardinas
-=======
-=======
-Cordero
->>>>>>> cf551ba (Revert "feat(all): combinacion de comit tras reset")
->>>>>>> 96507a8 (Squash de los commits reverse)
-=======
-Huevos
->>>>>>> 9ec5076 (Conflicto resuelto)
+
