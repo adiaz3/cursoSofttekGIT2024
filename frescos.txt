@@ -2,7 +2,6 @@ Lubina
 Pollo
 Cordero
 Ternera
-Huevos
 Sardinas
 Jamon
 Lomo
